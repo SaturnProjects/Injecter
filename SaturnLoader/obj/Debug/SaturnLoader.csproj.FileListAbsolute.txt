@@ -1,0 +1,12 @@
+C:\Users\nateb\source\repos\SaturnLoader\SaturnLoader\bin\Debug\SaturnLoader.exe.config
+C:\Users\nateb\source\repos\SaturnLoader\SaturnLoader\bin\Debug\SaturnLoader.exe
+C:\Users\nateb\source\repos\SaturnLoader\SaturnLoader\bin\Debug\SaturnLoader.pdb
+C:\Users\nateb\source\repos\SaturnLoader\SaturnLoader\bin\Debug\Guna.UI2.dll
+C:\Users\nateb\source\repos\SaturnLoader\SaturnLoader\obj\Debug\SaturnLoader.csproj.AssemblyReference.cache
+C:\Users\nateb\source\repos\SaturnLoader\SaturnLoader\obj\Debug\SaturnLoader.loader.resources
+C:\Users\nateb\source\repos\SaturnLoader\SaturnLoader\obj\Debug\SaturnLoader.Properties.Resources.resources
+C:\Users\nateb\source\repos\SaturnLoader\SaturnLoader\obj\Debug\SaturnLoader.csproj.GenerateResource.cache
+C:\Users\nateb\source\repos\SaturnLoader\SaturnLoader\obj\Debug\SaturnLoader.csproj.CoreCompileInputs.cache
+C:\Users\nateb\source\repos\SaturnLoader\SaturnLoader\obj\Debug\SaturnLo.A855C8B2.Up2Date
+C:\Users\nateb\source\repos\SaturnLoader\SaturnLoader\obj\Debug\SaturnLoader.exe
+C:\Users\nateb\source\repos\SaturnLoader\SaturnLoader\obj\Debug\SaturnLoader.pdb

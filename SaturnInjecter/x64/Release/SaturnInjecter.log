@@ -1,0 +1,34 @@
+﻿  SaturnInjecter.cpp
+C:\Users\nateb\source\repos\SaturnLoader\SaturnInjecter\SaturnInjecter.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\nateb\source\repos\SaturnLoader\SaturnInjecter\SaturnInjecter.cpp(11,30): error C2664: 'HWND FindWindowW(LPCWSTR,LPCWSTR)': cannot convert argument 2 from 'const char *' to 'LPCWSTR'
+  C:\Users\nateb\source\repos\SaturnLoader\SaturnInjecter\SaturnInjecter.cpp(11,47):
+  Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(10076,1):
+  see declaration of 'FindWindowW'
+  C:\Users\nateb\source\repos\SaturnLoader\SaturnInjecter\SaturnInjecter.cpp(11,30):
+  while trying to match the argument list '(int, const char *)'
+  
+C:\Users\nateb\source\repos\SaturnLoader\SaturnInjecter\SaturnInjecter.cpp(16,5): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': cannot convert argument 2 from 'const char *' to 'LPCWSTR'
+  C:\Users\nateb\source\repos\SaturnLoader\SaturnInjecter\SaturnInjecter.cpp(16,22):
+  Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(9180,1):
+  see declaration of 'MessageBoxW'
+  C:\Users\nateb\source\repos\SaturnLoader\SaturnInjecter\SaturnInjecter.cpp(16,5):
+  while trying to match the argument list '(int, const char *, const char *, int)'
+  
+C:\Users\nateb\source\repos\SaturnLoader\SaturnInjecter\SaturnInjecter.cpp(39,14): error C2664: 'DWORD GetFullPathNameW(LPCWSTR,DWORD,LPWSTR,LPWSTR *)': cannot convert argument 1 from 'const char *' to 'LPCWSTR'
+  C:\Users\nateb\source\repos\SaturnLoader\SaturnInjecter\SaturnInjecter.cpp(39,30):
+  Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\fileapi.h(727,1):
+  see declaration of 'GetFullPathNameW'
+  C:\Users\nateb\source\repos\SaturnLoader\SaturnInjecter\SaturnInjecter.cpp(39,14):
+  while trying to match the argument list '(const char *, int, char [260], nullptr)'
+  
+C:\Users\nateb\source\repos\SaturnLoader\SaturnInjecter\SaturnInjecter.cpp(75,9): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': cannot convert argument 2 from 'const char [36]' to 'LPCWSTR'
+  C:\Users\nateb\source\repos\SaturnLoader\SaturnInjecter\SaturnInjecter.cpp(75,23):
+  Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(9180,1):
+  see declaration of 'MessageBoxW'
+  C:\Users\nateb\source\repos\SaturnLoader\SaturnInjecter\SaturnInjecter.cpp(75,9):
+  while trying to match the argument list '(int, const char [36], const char [3], int)'
+  
